@@ -1,4 +1,5 @@
 ![AppVeyor](https://img.shields.io/appveyor/build/mogakamo/vaccine-management-system)
+![AppVeyor tests](https://img.shields.io/appveyor/tests/mogakamo/vaccine-management-system?style=plastic)
 
 # vaccine-management-system
 
